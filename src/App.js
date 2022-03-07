@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React, cause it's fun
+          Learn React, cause it's fun, and Utopiops helps you deploy it.
         </a>
       </header>
     </div>
